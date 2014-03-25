@@ -1,5 +1,6 @@
 #周丰#
-##TEL：  18201019712       Email： zhoufengloop@gmail.com#
+###TEL：  18201019712###
+###Email： zhoufengloop@gmail.com###
 
 ##学历背景##
 ###2007.9～2011.6   吉林大学   软件工程  本科###
