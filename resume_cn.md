@@ -3,9 +3,9 @@
 ###基本信息###
 
 邮箱： zhoufengloop@gmail.com  
-性别:  男                                               
-出生日期:  1989.12.23   
-籍贯: 山东临沂                                        
+性别： 男                                               
+出生日期： 1989.12.23   
+籍贯： 山东临沂                                        
 
 
 ###学历背景###
@@ -34,9 +34,9 @@
 +   支撑平台开发
     +   用户管理系统
         +   实现基于队列的用户数据同步清洗模块（Python, Beanstalk, MongoDB）
-        +   设计实现了用户管理系统API（Python, Thrift, SQLAlchemy）
+        +   设计实现用户管理系统API（Python, Thrift, SQLAlchemy）
     +   权限系统、用户关怀平台等支撑系统
-        +   设计并实现了以上系统（PHP, Yii）
+        +   设计并实现以上系统（PHP, Yii）
 +   线上系统日常运维
     +   包括Zabbix, MySQL, Nginx, Apache, Varnish, Beanstalk以及多个应用服务
 
@@ -48,7 +48,7 @@
 
 ###专业技能###
 
-+   熟练掌握Python语言及常用库/框架，如Greenlet, Eventlet, Scrapy, Web.py, Tornado
++   熟练掌握Python语言及常用库和框架，如Greenlet, Eventlet, Scrapy, Web.py, Tornado
 +   熟悉PHP语言及Yii框架
 +   熟悉C语言及Linux系统编程
 +   熟悉Linux环境，掌握Bash, Sed, AWK等工具，熟练使用Vim编辑器
