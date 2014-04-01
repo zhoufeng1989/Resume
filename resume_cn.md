@@ -8,7 +8,7 @@
 籍贯: 山东临沂                                        
 
 
-###学历背景###   
+###学历背景###
 
 2007.9～2011.6   吉林大学   软件工程  本科
 
@@ -59,5 +59,5 @@
 
 ###其它###
 
-+   [博客](http://zhoufeng1989.github.io)     
++   [个人博客](http://zhoufeng1989.github.io)     
 +   [github](https://github.com/zhoufeng1989)
