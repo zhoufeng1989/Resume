@@ -53,7 +53,7 @@
 +   熟悉C语言及Linux系统编程
 +   熟悉Linux环境，掌握Bash, Sed, AWK等工具，熟练使用Vim编辑器
 +   熟悉常用Web开源组件，如Apache, Nginx, Varnish, Beanstalk, Redis, MongoDB
-+   熟悉SQL及MySQL数据库
++   熟悉SQL及MySQL数据库，了解基本的SQL优化
 +   良好的英语听说读写能力，通过CET-6，熟练阅读英文技术文档
 
 

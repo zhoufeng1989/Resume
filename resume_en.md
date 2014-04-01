@@ -41,7 +41,7 @@ Birthdate:  23/12/1989
 +   Online system daily operation and maintenance 
     +   Zabbix, MySQL, Nginx, Apache, Varnish, Beanstalk and application services
 
-**2011.7~2012.3  Netentsec Inc.      database development engineer**
+**7/2011~3/2012  Netentsec Inc.      database development engineer**
 +   Data center system
     +   Develop data structures transformed module, improve storage utilization and query speed (SQL, Oracle, PostgreSQL)
     +   daily maintenance, bug fix, customization development (PowerDesign,   Bash, SQL)
@@ -52,7 +52,7 @@ Birthdate:  23/12/1989
 +   Experienced in Python and libraries/frameworks such as Greenlet, Eventlet, Scrapy, Web.py and Tornado
 +   Familiar with PHP and Yii web framework
 +   Familiar with Linux environment, feel at home working with Bash, Sed, AWK, Vim
-+   Familiar with SQL, MySQL
++   Familiar with SQL, MySQL, knowledge of SQL tuning
 +   Good understanding of C and Linux programming
 +   Knowledge of web components, like Apache, Nginx, Varnish, Beanstalk, Redis, MongoDB
 +   Good oral and written English, pass CET-6, proficiency in reading professional documents  
