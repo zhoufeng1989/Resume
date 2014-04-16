@@ -48,7 +48,7 @@
 
 ###专业技能###
 
-+   熟练掌握Python语言及常用库和框架，如Greenlet, Eventlet, Scrapy, Web.py, Tornado
++   熟练掌握Python语言及常用库和框架，如Greenlet, Eventlet, Scrapy, Web.py, Tornado, Django
 +   熟悉PHP语言及Yii框架
 +   熟悉C语言及Linux系统编程
 +   熟悉Linux环境，掌握Bash, Sed, AWK等工具，熟练使用Vim编辑器

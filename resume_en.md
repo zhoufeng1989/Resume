@@ -49,7 +49,7 @@ Birthdate:  23/12/1989
 
 ###Professional Qualities###
 
-+   Experienced in Python and libraries/frameworks such as Greenlet, Eventlet, Scrapy, Web.py and Tornado
++   Experienced in Python and libraries/frameworks such as Greenlet, Eventlet, Scrapy, Web.py, Tornado and Django
 +   Familiar with PHP and Yii web framework
 +   Familiar with Linux environment, feel at home working with Bash, Sed, AWK, Vim
 +   Familiar with SQL, MySQL, knowledge of SQL tuning
